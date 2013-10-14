@@ -5,6 +5,7 @@ int main()
 	{
 		cout<<"This is a test of editing on GitHub."<<endl;
 		cout<<"Hi";
-		
+		int x;
+		cin>>x;
 		return 0;
 	}
